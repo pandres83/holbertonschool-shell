@@ -7,7 +7,13 @@ adopted in Italian (Il dado è tratto), Romanian (Zarurile au fost aruncate),
 Spanish (La suerte está echada), French (Les dés sont jetés), Portuguese (A
 sorte está lançada), Dutch (De teerling is geworpen),
 German (Der Würfel ist gefallen), Hungarian (A kocka el van vetve) and many other languages to
-indicate that events have passed a point of no return.     1	Alea iacta est ("The die is cast") is a Latin phrase attributed by Suetonius
+indicate that events have passed a point of no return.
+
+Read more: https://en.wikipedia.org/wiki/Alea_iacta_est
+julien@ubuntu:/tmp/h$ ./9-duplicate_last_line
+julien@ubuntu:/tmp/h$ cat iacta
+Alea iacta est
+     1	Alea iacta est ("The die is cast") is a Latin phrase attributed by Suetonius
      2	(as iacta alea est) to Julius Caesar on January 10, 49 BC
      3	as he led his army across the Rubicon river in Northern Italy. With this step,
      4	he entered Italy at the head of his army in defiance of the Senate and began
@@ -17,3 +23,8 @@ indicate that events have passed a point of no return.     1	Alea iacta est ("Th
      8	sorte está lançada), Dutch (De teerling is geworpen),
      9	German (Der Würfel ist gefallen), Hungarian (A kocka el van vetve) and many other languages to
     10	indicate that events have passed a point of no return.
+       
+    11	Read more: https://en.wikipedia.org/wiki/Alea_iacta_est
+    12	julien@ubuntu:/tmp/h$ ./9-duplicate_last_line
+    13	julien@ubuntu:/tmp/h$ cat iacta
+    14	Alea iacta est
