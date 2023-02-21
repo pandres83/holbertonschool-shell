@@ -1,0 +1,2 @@
+#!/bin/bash
+ls | nl | head -n 10
